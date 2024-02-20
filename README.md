@@ -3,6 +3,7 @@
 #### Github Stats
 
 [![chgeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chgeo&show_icons=true&theme=transparent&hide_title=true)](https://github.com/chgeo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chgeo&show_icons=true&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5&hide=HTML,Ruby)](https://github.com/chgeo)
 
 <!--
 **chgeo/chgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

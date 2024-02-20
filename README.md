@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![chgeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chgeo)](https://github.com/chgeo)
+
 <!--
 **chgeo/chgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

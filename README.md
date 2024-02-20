@@ -1,4 +1,8 @@
-### Hi there 👋
+### Christian Georgi
+
+<!-- I am a software developer at SAP. -->
+
+#### Stats
 
 [![chgeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chgeo)](https://github.com/chgeo)
 

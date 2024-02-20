@@ -1,5 +1,3 @@
-### Christian Georgi
-
 <!-- I am a software developer at SAP. -->
 
 #### Github Stats

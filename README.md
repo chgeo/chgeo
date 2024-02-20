@@ -2,9 +2,9 @@
 
 <!-- I am a software developer at SAP. -->
 
-#### Stats
+#### Github Stats
 
-[![chgeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chgeo)](https://github.com/chgeo)
+[![chgeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chgeo&show_icons=true&theme=transparent&hide_title=true)](https://github.com/chgeo)
 
 <!--
 **chgeo/chgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
